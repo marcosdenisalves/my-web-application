@@ -1,4 +1,13 @@
 .info_header {
   background: #474747;
+  padding: 0.5rem 2rem;
+}
+
+.info_header__nav___list {
   display: flex;
+}
+
+.info_header__nav___list p {
+  color: white;
+  margin-left: 1rem;
 }
